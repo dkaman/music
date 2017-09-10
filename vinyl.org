@@ -10,10 +10,10 @@
   | karma                                                                    |   5:50 | 115 | Am    | phillipi & rodrigo             | n/a               | deewee                    | deewee 010         | a    |
   | gueto de gent                                                            |   5:06 | 105 | Fm    | phillipi & rodrigo             | n/a               | deewee                    | deewee 010         | b    |
   | transient program for drums and machinery                                |   6:23 | 114 | Bm    | soulwax                        | n/a               | deewee                    | deewee 019         | a    |
-  | cheap treat                                                              |   4:24 | 100 | Bm    | eric copeland                  | panda bear        | dfa                       | dfa                | a1   |
-  | grapes                                                                   |   6:11 | 104 | A#m   | eric copeland                  | larry gus         | dfa                       | dfa                | a2   |
-  | cheap treat                                                              |   9:19 |  99 | Fmaj  | eric copeland                  | fhloston paradigm | dfa                       | dfa                | b1   |
-  | bobby strong                                                             |   6:02 | 122 | Am    | eric copeland                  | anthony napels    | dfa                       | dfa                | b2   |
+  | cheap treat                                                              |   4:24 | 100 | Bm    | eric copeland                  | panda bear        | dfa                       | dfa 2429           | a1   |
+  | grapes                                                                   |   6:11 | 104 | A#m   | eric copeland                  | larry gus         | dfa                       | dfa 2429           | a2   |
+  | cheap treat                                                              |   9:19 |  99 | Fmaj  | eric copeland                  | fhloston paradigm | dfa                       | dfa 2429           | b1   |
+  | bobby strong                                                             |   6:02 | 122 | Am    | eric copeland                  | anthony napels    | dfa                       | dfa 2429           | b2   |
   | yr city's a sucker (full 12" version)                                    |   9:22 | 104 | Bbmaj | lcd soundsystem                | n/a               | dfa                       | dfa 2143           | a    |
   | yr city's a sucker (instrumental version)                                |   9:22 | 104 | Bbmaj | lcd soundsystem                | n/a               | dfa                       | dfa 2143           | b    |
   | 45:33 (prins thomas diskomiks)                                           |  13:16 | 113 | Gmaj  | lcd soundsystem                | prins thomas      | dfa                       | dfa 2225           | a    |
@@ -43,12 +43,12 @@
   | k (original version)                                                     |   5:51 | 121 | Amaj  | prins thomas                   | n/a               | smalltown supersound      | sts 29812          | b2   |
   | jungelknugen                                                             |   8:00 | 122 | A#maj | todd terje                     | four tet          | olsen records             | ols 017            | a    |
   | jungelknugen                                                             |   8:56 | 122 | Dm    | todd terje                     | prins thomas      | olsen records             | ols 017            | b    |
-  | diamonds                                                                 |        |     |       | paul simon                     | todd terje        | ttj                       | ttj 889            | a1   |
-  | high light                                                               |        |     |       | barrabas                       | todd terje        | ttj                       | ttj 889            | a2   |
-  | don't stop the dance                                                     |        |     |       | bryan ferry                    | todd terje        | ttj                       | ttj 889            | b    |
-  | fate                                                                     |        |     |       | chaka khan                     | todd terje        | ttj                       | ttj 2085           | a1   |
-  | home computer                                                            |        |     |       | kraftwerk                      | todd terje        | ttj                       | ttj 2085           | a2   |
-  | woman of the world                                                       |        |     |       | double                         | todd terje        | ttj                       | ttj 2085           | b    |
+  | diamonds                                                                 |   7:05 |     |       | paul simon                     | todd terje        | ttj                       | ttj 889            | a1   |
+  | high light                                                               |   5:18 |     |       | barrabas                       | todd terje        | ttj                       | ttj 889            | a2   |
+  | don't stop the dance                                                     |  10:24 |     |       | bryan ferry                    | todd terje        | ttj                       | ttj 889            | b    |
+  | fate                                                                     |   5:53 |     |       | chaka khan                     | todd terje        | ttj                       | ttj 2085           | a1   |
+  | home computer                                                            |   5:38 |     |       | kraftwerk                      | todd terje        | ttj                       | ttj 2085           | a2   |
+  | woman of the world                                                       |   7:15 |     |       | double                         | todd terje        | ttj                       | ttj 2085           | b    |
   | oban (todd terje remix)                                                  |   9:48 | 122 | F#m   | jaga jazzist                   | todd terje        | ninja tune                | zen 12415          | a    |
   | oban                                                                     |  12:41 | 122 | Bmaj  | jaga jazzist                   | todd terje        | ninja tune                | zen 12415          | b    |
   | i'm your boogie man                                                      |   4:03 | 113 | Fm    | k.c. and the sunshine band     | n/a               | t.k. disco                | tkdiscorsd 2015pt2 | a    |
@@ -56,8 +56,8 @@
   | ayatollah jackson                                                        |   4:11 |     |       | à;grumh...                     | n/a               | play it again sam records | bius 3024          | a    |
   | loco loco (..m.)                                                         |   4:46 |     |       | à;grumh...                     | n/a               | play it again sam records | bius 3024          | b1   |
   | ich und meine ananas (v.01.0.61, 7bis)                                   |   4:42 |     |       | à;grumh...                     | n/a               | play it again sam records | bius 3024          | b2   |
-  | boom boom (let's go back to my room)                                     |   6:53 |     |       | paul lekakis                   | n/a               | zyx records               | zyx 5571           | a    |
-  | instrumental room                                                        |   4:50 |     |       | paul lekakis                   | n/a               | zyx records               | zyx 5571           | b    |
+  | boom boom (let's go back to my room)                                     |   6:53 | 130 | Bm    | paul lekakis                   | n/a               | zyx records               | zyx 5571           | a    |
+  | instrumental room                                                        |   4:50 | 130 | Bm    | paul lekakis                   | n/a               | zyx records               | zyx 5571           | b    |
   | tainted love/where did our love go                                       |   8:57 |     |       | soft cell                      | n/a               | sire                      | dsre 49856         | a    |
   | memorabilia                                                              |   4:47 |     |       | soft cell                      | n/a               | sire                      | dsre 49856         | b1   |
   | tainted dub                                                              |   9:25 |     |       | soft cell                      | n/a               | sire                      | dsre 49856         | b2   |
