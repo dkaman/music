@@ -1,0 +1,30 @@
+* singles
+  |--------------------------------------------------+--------+-----+-------+--------------------+-------------------+--------+------------+------|
+  | title                                            | length | bpm | key   | artist             | remixer           | label  | alpha      | side |
+  |--------------------------------------------------+--------+-----+-------+--------------------+-------------------+--------+------------+------|
+  | dafalganger                                      |   7:21 |  84 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | a    |
+  | white islands                                    |   8:57 | 113 | Gmaj  | die verboten       | n/a               | deewee | deewee 003 | a    |
+  | e40                                              |  12:56 | 110 | Fmaj  | die verboten       | n/a               | deewee | deewee 003 | b    |
+  | nacht winkel                                     |  15:58 | 118 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | c    |
+  | aquarius                                         |   7:19 | 102 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | d    |
+  | karma                                            |   5:50 | 115 | Am    | phillipi & rodrigo | n/a               | deewee | deewee 010 | a    |
+  | gueto de gent                                    |   5:06 | 105 | Fm    | phillipi & rodrigo | n/a               | deewee | deewee 010 | b    |
+  | transient program for drums and machinery        |   6:23 | 114 | Bm    | soulwax            | n/a               | deewee | deewee 019 | a    |
+  | cheap treat                                      |   4:24 | 100 | Bm    | eric copeland      | panda bear        | dfa    | dfa        | a    |
+  | grapes                                           |   6:11 | 104 | A#m   | eric copeland      | larry gus         | dfa    | dfa        | a    |
+  | cheap treat                                      |   9:19 |  99 | Fmaj  | eric copeland      | fhloston paradigm | dfa    | dfa        | b    |
+  | bobby strong                                     |   6:02 | 122 | Am    | eric copeland      | anthony napels    | dfa    | dfa        | b    |
+  | yr city's a sucker (full 12" version)            |   9:22 | 104 | Bbmaj | lcd soundsystem    | n/a               | dfa    | dfa 2143   | a    |
+  | yr city's a sucker (instrumental version)        |   9:22 | 104 | Bbmaj | lcd soundsystem    | n/a               | dfa    | dfa 2143   | b    |
+  | 45:33 (prins thomas diskomiks)                   |  13:16 | 113 | Gmaj  | lcd soundsystem    | prins thomas      | dfa    | dfa 2225   | a    |
+  | 45:33 (runaway remix)                            |   7:23 | 119 | C#m   | lcd soundsystem    | runaway           | dfa    | dfa 2225   | b    |
+  | 45:33 (prince language remix)                    |   7:47 | 117 | Am    | lcd soundsystem    | prince language   | dfa    | dfa 2226   | a    |
+  | 45:33 (padded cell remix)                        |   7:54 | 117 | Dm    | lcd soundsystem    | padded cell       | dfa    | dfa 2226   | b    |
+  | 45:33 (pilooski remix)                           |   6:49 | 125 | Am    | lcd soundsystem    | pilooski          | dfa    | dfa 2227   | a    |
+  | 45:33 (theo parrish's space cadet remix)         |  10:02 | 111 | Am    | lcd soundsystem    | theo parrish      | dfa    | dfa 2227   | b    |
+  | 45:33 (riley reinhold remix)                     |   9:04 | 125 | Dm    | lcd soundsystem    | riley reinhold    | dfa    | dfa 2228   | a    |
+  | 45:33 (trus'me remix)                            |   7:23 | 113 | Am    | lcd soundsystem    | trus'me           | dfa    | dfa 2228   | b    |
+  | can you ever really know somebody                |   5:44 | 125 | Em    | the juan maclean   | n/a               | dfa    | dfa 2524   | a    |
+  | can you ever really know somebody (instrumental) |   5:44 | 125 | Em    | the juan maclean   | n/a               | dfa    | dfa 2524   | a    |
+  | can you ever really know somebody (la-4a remix)  |   6:12 | 125 | Fmaj  | the juan maclean   | la-4a             | dfa    | dfa 2524   | b    |
+  | can you ever really know somebody (la-4a dub)    |   6:12 | 125 | Fmaj  | the juan maclean   | la-4a             | dfa    | dfa 2524   | b    |
