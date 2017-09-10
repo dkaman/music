@@ -1,30 +1,54 @@
 * singles
-  |--------------------------------------------------+--------+-----+-------+--------------------+-------------------+--------+------------+------|
-  | title                                            | length | bpm | key   | artist             | remixer           | label  | alpha      | side |
-  |--------------------------------------------------+--------+-----+-------+--------------------+-------------------+--------+------------+------|
-  | dafalganger                                      |   7:21 |  84 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | a    |
-  | white islands                                    |   8:57 | 113 | Gmaj  | die verboten       | n/a               | deewee | deewee 003 | a    |
-  | e40                                              |  12:56 | 110 | Fmaj  | die verboten       | n/a               | deewee | deewee 003 | b    |
-  | nacht winkel                                     |  15:58 | 118 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | c    |
-  | aquarius                                         |   7:19 | 102 | Bmaj  | die verboten       | n/a               | deewee | deewee 003 | d    |
-  | karma                                            |   5:50 | 115 | Am    | phillipi & rodrigo | n/a               | deewee | deewee 010 | a    |
-  | gueto de gent                                    |   5:06 | 105 | Fm    | phillipi & rodrigo | n/a               | deewee | deewee 010 | b    |
-  | transient program for drums and machinery        |   6:23 | 114 | Bm    | soulwax            | n/a               | deewee | deewee 019 | a    |
-  | cheap treat                                      |   4:24 | 100 | Bm    | eric copeland      | panda bear        | dfa    | dfa        | a    |
-  | grapes                                           |   6:11 | 104 | A#m   | eric copeland      | larry gus         | dfa    | dfa        | a    |
-  | cheap treat                                      |   9:19 |  99 | Fmaj  | eric copeland      | fhloston paradigm | dfa    | dfa        | b    |
-  | bobby strong                                     |   6:02 | 122 | Am    | eric copeland      | anthony napels    | dfa    | dfa        | b    |
-  | yr city's a sucker (full 12" version)            |   9:22 | 104 | Bbmaj | lcd soundsystem    | n/a               | dfa    | dfa 2143   | a    |
-  | yr city's a sucker (instrumental version)        |   9:22 | 104 | Bbmaj | lcd soundsystem    | n/a               | dfa    | dfa 2143   | b    |
-  | 45:33 (prins thomas diskomiks)                   |  13:16 | 113 | Gmaj  | lcd soundsystem    | prins thomas      | dfa    | dfa 2225   | a    |
-  | 45:33 (runaway remix)                            |   7:23 | 119 | C#m   | lcd soundsystem    | runaway           | dfa    | dfa 2225   | b    |
-  | 45:33 (prince language remix)                    |   7:47 | 117 | Am    | lcd soundsystem    | prince language   | dfa    | dfa 2226   | a    |
-  | 45:33 (padded cell remix)                        |   7:54 | 117 | Dm    | lcd soundsystem    | padded cell       | dfa    | dfa 2226   | b    |
-  | 45:33 (pilooski remix)                           |   6:49 | 125 | Am    | lcd soundsystem    | pilooski          | dfa    | dfa 2227   | a    |
-  | 45:33 (theo parrish's space cadet remix)         |  10:02 | 111 | Am    | lcd soundsystem    | theo parrish      | dfa    | dfa 2227   | b    |
-  | 45:33 (riley reinhold remix)                     |   9:04 | 125 | Dm    | lcd soundsystem    | riley reinhold    | dfa    | dfa 2228   | a    |
-  | 45:33 (trus'me remix)                            |   7:23 | 113 | Am    | lcd soundsystem    | trus'me           | dfa    | dfa 2228   | b    |
-  | can you ever really know somebody                |   5:44 | 125 | Em    | the juan maclean   | n/a               | dfa    | dfa 2524   | a    |
-  | can you ever really know somebody (instrumental) |   5:44 | 125 | Em    | the juan maclean   | n/a               | dfa    | dfa 2524   | a    |
-  | can you ever really know somebody (la-4a remix)  |   6:12 | 125 | Fmaj  | the juan maclean   | la-4a             | dfa    | dfa 2524   | b    |
-  | can you ever really know somebody (la-4a dub)    |   6:12 | 125 | Fmaj  | the juan maclean   | la-4a             | dfa    | dfa 2524   | b    |
+  |--------------------------------------------------------------------------+--------+-----+-------+--------------------------------+-------------------+----------------------+------------+------|
+  | title                                                                    | length | bpm | key   | artist                         | remixer           | label                | release    | side |
+  |--------------------------------------------------------------------------+--------+-----+-------+--------------------------------+-------------------+----------------------+------------+------|
+  | dafalganger                                                              |   7:21 |  84 | Bmaj  | die verboten                   | n/a               | deewee               | deewee 003 | a1   |
+  | white islands                                                            |   8:57 | 113 | Gmaj  | die verboten                   | n/a               | deewee               | deewee 003 | a2   |
+  | e40                                                                      |  12:56 | 110 | Fmaj  | die verboten                   | n/a               | deewee               | deewee 003 | b    |
+  | nacht winkel                                                             |  15:58 | 118 | Bmaj  | die verboten                   | n/a               | deewee               | deewee 003 | c    |
+  | aquarius                                                                 |   7:19 | 102 | Bmaj  | die verboten                   | n/a               | deewee               | deewee 003 | d    |
+  | karma                                                                    |   5:50 | 115 | Am    | phillipi & rodrigo             | n/a               | deewee               | deewee 010 | a    |
+  | gueto de gent                                                            |   5:06 | 105 | Fm    | phillipi & rodrigo             | n/a               | deewee               | deewee 010 | b    |
+  | transient program for drums and machinery                                |   6:23 | 114 | Bm    | soulwax                        | n/a               | deewee               | deewee 019 | a    |
+  | cheap treat                                                              |   4:24 | 100 | Bm    | eric copeland                  | panda bear        | dfa                  | dfa        | a1   |
+  | grapes                                                                   |   6:11 | 104 | A#m   | eric copeland                  | larry gus         | dfa                  | dfa        | a2   |
+  | cheap treat                                                              |   9:19 |  99 | Fmaj  | eric copeland                  | fhloston paradigm | dfa                  | dfa        | b1   |
+  | bobby strong                                                             |   6:02 | 122 | Am    | eric copeland                  | anthony napels    | dfa                  | dfa        | b2   |
+  | yr city's a sucker (full 12" version)                                    |   9:22 | 104 | Bbmaj | lcd soundsystem                | n/a               | dfa                  | dfa 2143   | a    |
+  | yr city's a sucker (instrumental version)                                |   9:22 | 104 | Bbmaj | lcd soundsystem                | n/a               | dfa                  | dfa 2143   | b    |
+  | 45:33 (prins thomas diskomiks)                                           |  13:16 | 113 | Gmaj  | lcd soundsystem                | prins thomas      | dfa                  | dfa 2225   | a    |
+  | 45:33 (runaway remix)                                                    |   7:23 | 119 | C#m   | lcd soundsystem                | runaway           | dfa                  | dfa 2225   | b    |
+  | 45:33 (prince language remix)                                            |   7:47 | 117 | Am    | lcd soundsystem                | prince language   | dfa                  | dfa 2226   | a    |
+  | 45:33 (padded cell remix)                                                |   7:54 | 117 | Dm    | lcd soundsystem                | padded cell       | dfa                  | dfa 2226   | b    |
+  | 45:33 (pilooski remix)                                                   |   6:49 | 125 | Am    | lcd soundsystem                | pilooski          | dfa                  | dfa 2227   | a    |
+  | 45:33 (theo parrish's space cadet remix)                                 |  10:02 | 111 | Am    | lcd soundsystem                | theo parrish      | dfa                  | dfa 2227   | b    |
+  | 45:33 (riley reinhold remix)                                             |   9:04 | 125 | Dm    | lcd soundsystem                | riley reinhold    | dfa                  | dfa 2228   | a    |
+  | 45:33 (trus'me remix)                                                    |   7:23 | 113 | Am    | lcd soundsystem                | trus'me           | dfa                  | dfa 2228   | b    |
+  | can you ever really know somebody                                        |   5:44 | 125 | Em    | the juan maclean               | n/a               | dfa                  | dfa 2524   | a1   |
+  | can you ever really know somebody (instrumental)                         |   5:44 | 125 | Em    | the juan maclean               | n/a               | dfa                  | dfa 2524   | a2   |
+  | can you ever really know somebody (la-4a remix)                          |   6:12 | 125 | Fmaj  | the juan maclean               | la-4a             | dfa                  | dfa 2524   | b1   |
+  | can you ever really know somebody (la-4a dub)                            |   6:12 | 125 | Fmaj  | the juan maclean               | la-4a             | dfa                  | dfa 2524   | b2   |
+  | everybody dance (clap your hands) (anthem mix) feat. janine cross        |  10:07 | 130 | A#maj | dj pierre & marshall jefferson | n/a               | essence              | esr 002    | a    |
+  | everybody dance (clap your hands) (clap ya hands mix) feat. janine cross |   8:07 | 129 | A#maj | dj pierre & marshall jefferson | n/a               | essence              | esr 002    | b    |
+  | perfect love                                                             |   8:42 | 130 | Amaj  | dj stryke                      | n/a               | ovum recordings      | ovm 152    | a    |
+  | perfect love (stryke's sexy acid dub)                                    |   8:28 | 130 | C#m   | dj stryke                      | n/a               | ovum recordings      | ovm 152    | b1   |
+  | perfect love (blue diary ambient interlude)                              |   1:43 | 104 | F#m   | dj stryke                      | n/a               | ovum recordings      | ovm 152    | b2   |
+  | kambo super sound møter prins thomas i bobledub (melodica kutt)          |   3:10 |     |       | prins thomas                   | kambo super sound | full pupp            | fpst 2     | a1   |
+  | flau pappadans (dj fett burger tællekæll mix)                            |   7:37 |     |       | prins thomas                   | dj fett burger    | full pupp            | fpst 2     | a2   |
+  | kambo super sound møter prins thomas i bobledub (dub kutt)               |   3:06 |     |       | prins thomas                   | kambo super sound | full pupp            | fpst 2     | b1   |
+  | bobletekno (plus one remix)                                              |   6:58 |     |       | prins thomas                   | plus one          | full pupp            | fpst 2     | b2   |
+  | a1 (gerd janson prinspersonation mix)                                    |   7:10 | 118 | A#maj | prins thomas                   | gerd janson       | smalltown supersound | sts 29812  | a1   |
+  | a1 (gerd janson riddim version)                                          |        |     |       | prins thomas                   | gerd janson       | smalltown supersound | sts 29812  | a2   |
+  | i (original version)                                                     |   6:56 | 120 | Am    | prins thomas                   | n/a               | smalltown supersound | sts 29812  | b2   |
+  | k (original version)                                                     |   5:51 | 121 | Amaj  | prins thomas                   | n/a               | smalltown supersound | sts 29812  | b2   |
+  | jungelknugen                                                             |   8:00 | 122 | A#maj | todd terje                     | four tet          | olsen records        | ols 017    | a    |
+  | jungelknugen                                                             |   8:56 | 122 | Dm    | todd terje                     | prins thomas      | olsen records        | ols 017    | b    |
+  | diamonds                                                                 |        |     |       | paul simon                     | todd terje        | ttj                  | ttj 889    | a1   |
+  | high light                                                               |        |     |       | barrabas                       | todd terje        | ttj                  | ttj 889    | a2   |
+  | don't stop the dance                                                     |        |     |       | bryan ferry                    | todd terje        | ttj                  | ttj 889    | b    |
+  | fate                                                                     |        |     |       | chaka khan                     | todd terje        | ttj                  | ttj 2085   | a1   |
+  | home computer                                                            |        |     |       | kraftwerk                      | todd terje        | ttj                  | ttj 2085   | a2   |
+  | woman of the world                                                       |        |     |       | double                         | todd terje        | ttj                  | ttj 2085   | b    |
+  | oban (todd terje remix)                                                  |   9:48 | 122 | F#m   | jaga jazzist                   | todd terje        | ninja tune           | zen 12415  | a    |
+  | oban                                                                     |  12:41 | 122 | Bmaj  | jaga jazzist                   | todd terje        | ninja tune           | zen 12415  | b    |
+  |--------------------------------------------------------------------------+--------+-----+-------+--------------------------------+-------------------+----------------------+------------+------|
